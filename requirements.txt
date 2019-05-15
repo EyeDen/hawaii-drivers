@@ -2,5 +2,6 @@ dash==0.36.0
 dash-core-components==0.43.0
 dash-html-components==0.13.5
 flask==1.0.2
+gunicorn==19.8.1
 pandas==0.24.1
 plotly==3.4.1
